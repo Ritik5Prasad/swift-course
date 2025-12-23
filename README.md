@@ -1,6 +1,12 @@
+<div align="center">
+
 # Swift Programming Course
 
-![Swift Logo](swift.webp)
+<img src="swift.webp" alt="Swift Logo" width="150" height="150">
+
+</div>
+
+
 
 Welcome to this comprehensive Swift programming course! This repository contains a complete collection of Swift code examples and tutorials designed to take you from beginner to advanced levels.
 
